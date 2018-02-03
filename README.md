@@ -11,7 +11,7 @@ This spreadsheet is designed to be used in conjunction with three AppleScripts, 
 1. Enter your questions and answers in the Questions and Answers tables (see details below)
 2. Run **orderQA.scpt** to randomize the order of questions and answers
 3. Run **makeTest.scpt** to generate a text file with the test
-4. Run **makeAnswerKey.scpt** to generate a text file with the answer key 
+4. Run **makeAnswerKey.scpt** to generate a text file with the answer key for the test generated in step 3
 5. Repeat steps 2-4 as necessary to create multiple versions of the test
 6. To reset everything, first sort the Answer table by Answer Order, then sort both tables by Question ID.  This is recommended before adding any new questions to ensure you avoid creating duplicate Question IDs.
 
