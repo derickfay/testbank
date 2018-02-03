@@ -1,6 +1,12 @@
 # testbank
 Numbers spreadsheet and AppleScripts for managing multiple choice tests
 
+This spreadsheet is designed to allow for
+* creation of a bank of multiple choice questions
+* selection or exclusions of questions for a particular test
+* generation of multiple versions of a test with questions and answers in different random order, and corresponding answer keys
+
+
 The usage instructions are below -- these are also contained within the **testbank.numbers** spreadsheet itself.
 
 **Testbank**
