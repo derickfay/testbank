@@ -6,6 +6,8 @@ This spreadsheet is designed to allow for
 * selection or exclusions of questions for a particular test
 * generation of multiple versions of a test with questions and answers in different random order, and corresponding answer keys
 
+It's adapted from a FileMaker database and scripts I created years ago.  Because it's a spreadsheet, you do need to be careful in editing not to overwrite formulas or ID fields
+
 v1.0 2018-02-03
 
 The usage instructions are below -- these are also contained within the **testbank.numbers** spreadsheet itself.
@@ -37,7 +39,7 @@ Columns with pink shading contain lookup formulas or are dynamically set by the 
 For initial data entry (i.e. the first 5 questions), you can replace the content of the existing data fields (Question, Random, Include? and Keywords) with your own questions.  After that, you should extend the table down and copy the last line and edit it with a new unique Question ID and content.
 
 **Answers** table columns:
-- **Question ID** - the ID for the question to which this answer belongs
+- **Question ID** - the ID for the question to which this answer belongs - this has to be entered manually initially, but should **not** be subsequently changed
 - **Question Order** - lookup formula from Question table - do not change
 - **Random** - lookup formula from Question table - do not change
 - **Include** - lookup formula from Question table - do not change
