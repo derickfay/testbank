@@ -6,6 +6,7 @@ This spreadsheet is designed to allow for
 * selection or exclusions of questions for a particular test
 * generation of multiple versions of a test with questions and answers in different random order, and corresponding answer keys
 
+v1.0 2018-02-03
 
 The usage instructions are below -- these are also contained within the **testbank.numbers** spreadsheet itself.
 
