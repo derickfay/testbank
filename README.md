@@ -36,7 +36,7 @@ For initial data entry (i.e. the first 5 questions), you can replace the content
 - **Include** - lookup formula from Question table - do not change
 - **Answer Order** - where the answer will appear in output - for questions where **Random **is “y”, this is set dynamically, otherwise it should be set manually
 - **Answer** - the answer itself
-- **Right? - **contains x if correct, leave blank otherwise
+- **Right?** - contains x if correct, leave blank otherwise
 
 For initial data entry, you can replace the content of the existing data fields (Answer, Right, and Answer Order for non-random questions) with your own answers.  After than, you should extend the table down five lines and copy the last set of answers and edit it with the corresponding Question ID and content.
 
