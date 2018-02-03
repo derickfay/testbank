@@ -6,7 +6,7 @@ This spreadsheet is designed to allow for
 * selection or exclusions of questions for a particular test
 * generation of multiple versions of a test with questions and answers in different random order, and corresponding answer keys
 
-It's adapted from a FileMaker database and scripts I created years ago.  Because it's a spreadsheet, you do need to be careful in editing not to overwrite formulas or ID fields
+It's adapted from a FileMaker database and scripts I created years ago.  Because it's a spreadsheet, you do need to be careful in editing not to overwrite formulas, ID fields (after initial creation), etc. 
 
 v1.0 2018-02-03
 
